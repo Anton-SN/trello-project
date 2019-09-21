@@ -30,19 +30,7 @@ cancel.addEventListener('click', function() {
 })
 
 function deleteButton() {
-    // var content = document.querySelector('.main__exit');
-    // var yes = document.createElement('div');
-    // var no = document.createElement('div');
-    // var exit = document.createElement('div')
-    // exit.className = "exit__problem problem"
-    // yes.className = "problem__btn yes";
-    // yes.innerHTML = 'Yes';
-    // no.className = "problem__btn no";
-    // no.innerHTML = 'No';
-    // console.log(1)
-    // exit.appendChild(content);
-    // yes.appendChild(content);    
-    // no.appendChild(content);
+    
     this.parentNode.parentNode.removeChild(this.parentNode);
 }
 

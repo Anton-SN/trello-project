@@ -207,18 +207,3 @@
     background-position: 200% 0, 0 0, 0 0, 0 100%, 0 4px, 0 calc(100% - 4px);
     box-shadow: rgba(0,0,0,.5) 3px 10px 10px -10px;
 }
-
-.yes:hover {
-    color: rgb(105, 221, 105); 
-    border-color: rgb(105, 221, 105);
-    transition: .5s all;
-    background-position: -200% 0, 0 0, 0 0, 0 100%, 0 4px, 0 calc(100% - 4px);
-}
-
-.no:hover{
-    color: rgb(214, 54, 54); 
-    border-color: rgb(214, 54, 54);
-    transition: .5s all;
-    background-position: -200% 0, 0 0, 0 0, 0 100%, 0 4px, 0 calc(100% - 4px);
-
-}
