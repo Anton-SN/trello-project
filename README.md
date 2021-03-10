@@ -1,3 +1,3 @@
-# My first project
+# Мой первый проект по созданию веб приложения
 
-This project is deployed on https://anton-sn.github.io/trello-project/
+Проект доступен по ссылке https://anton-sn.github.io/trello-project/.
